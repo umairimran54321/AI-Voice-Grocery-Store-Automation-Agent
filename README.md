@@ -67,6 +67,4 @@ The goal of this project is to demonstrate how voice AI can be combined with wor
 
 This project demonstrates practical experience with AI automation, agentic workflows, API integration, voice AI, structured data processing, and business process automation.
 
-## Workflow:
 
-![AI-Voice-Grocery-Store-Automation-Agent.mp4](AI-Voice-Grocery-Store-Automation-Agent.mp4)
