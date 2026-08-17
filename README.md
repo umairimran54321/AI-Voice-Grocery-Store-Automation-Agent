@@ -66,3 +66,7 @@ Customer Complaint → Extract Order ID → Generate Complaint ID → Record Com
 The goal of this project is to demonstrate how voice AI can be combined with workflow automation and business systems to create an automated customer service solution that can understand requests, perform backend operations, and respond to customers without manual intervention.
 
 This project demonstrates practical experience with AI automation, agentic workflows, API integration, voice AI, structured data processing, and business process automation.
+
+## Workflow:
+
+![Woekflow](AI-Voice-Grocery-Store-Automation-Agent.mp4)
