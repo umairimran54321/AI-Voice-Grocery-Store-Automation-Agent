@@ -69,4 +69,4 @@ This project demonstrates practical experience with AI automation, agentic workf
 
 ## Workflow:
 
-![Workflow](AI-Voice-Grocery-Store-Automation-Agent.mp4)
+![AI-Voice-Grocery-Store-Automation-Agent.mp4](AI-Voice-Grocery-Store-Automation-Agent.mp4)
